@@ -250,7 +250,7 @@ This project is released under the MIT License. See [`LICENSE`](LICENSE) for det
 
 This material was prepared for the VCCA 2026 tutorial on computational models of the auditory periphery.
 
-The codes shared in this tutorial have previously been developed and used for the following publications: 
-`Saddler, M.R. and McDermott, J.H., 2024. Models optimized for real-world tasks reveal the task-dependent necessity of precise temporal coding in hearing. Nature Communications, 15(1), p.10590.`
-`Banerjee, A., Saddler, M.R., Arenberg, J.G. and McDermott, J.H., 2025. A deep learning framework for understanding cochlear implants. bioRxiv.`
+The codes shared in this tutorial have previously been developed and used for the following publications. Please cite them if you find this code useful. 
+1. `Saddler, M.R. and McDermott, J.H., 2024. Models optimized for real-world tasks reveal the task-dependent necessity of precise temporal coding in hearing. Nature Communications, 15(1), p.10590.`
+2. `Banerjee, A., Saddler, M.R., Arenberg, J.G. and McDermott, J.H., 2025. A deep learning framework for understanding cochlear implants. bioRxiv.`
 
