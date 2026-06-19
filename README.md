@@ -2,7 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Annesya/vcca-tutorial-periphery/blob/main/model_of_auditory_periphery_simplified_w_comments.ipynb)
 
-This repository contains code for the hands-on session of the **VCCA 2026 tutorial on Computational Models of the Auditory Periphery**. The goal is to help participants build intuition for how sound is transformed by early stages of the auditory system, from the acoustic waveform to a simplified auditory-nerve representation.
+This repository contains code for the hands-on session of the **VCCA 2026 tutorial on Computational Models of the Auditory Periphery**. The goal is to help participants build intuition for how sound is transformed by early stages of the auditory system, from the acoustic waveform to a simplified auditory-nerve representation. The tutorial slides are available [HERE](https://docs.google.com/presentation/d/1QcI-DeC4qwdIWBJDKleRAVUDKz7mCxTOALWc8pcQAwE/edit?usp=sharing).
 
 The tutorial is designed for researchers, clinicians, engineers, and students who may come from different backgrounds but want a practical, computational view of peripheral auditory processing.
 
