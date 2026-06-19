@@ -42,6 +42,7 @@ The notebook walks through a simplified auditory-periphery model in stages:
 ```text
 vcca-tutorial-periphery/
 ├── model_of_auditory_periphery_simplified_w_comments.ipynb  # Main tutorial notebook
+├── Model_of_Auditory_Periphery_Zilany.ipynb                 # Notebook for simulating a more detailed nerve model (Bruce et al., 2018)
 ├── modules.py                                               # PyTorch modules for filters and neural transformations
 ├── filters.py                                               # FIR filter construction utilities
 ├── utils.py                                                 # Signal generation, plotting, and auditory-scale utilities
@@ -233,7 +234,7 @@ If you run into GPU-specific issues, restart the runtime and use CPU mode.
 Check that the file exists at the path used by:
 
 ```python
-audio_file_path = "/content/example_speech_in_noise.wav"
+audio_file_path = "/content/vcca-tutorial-periphery/example_speech_in_noise.wav"
 ```
 
 Update the path if needed.
@@ -246,7 +247,7 @@ This project is released under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ---
 
-## Acknowledgments
+## Citation
 
 This material was prepared for the VCCA 2026 tutorial on computational models of the auditory periphery.
 
